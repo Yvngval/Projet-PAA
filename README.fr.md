@@ -185,3 +185,4 @@ make clear         # Nettoyer les fichiers compilés
 ## Auteur
 
 [thmsgo18](https://github.com/thmsgo18)
+[Yvngval](https://github.com/Yvngval)
